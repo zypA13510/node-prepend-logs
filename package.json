@@ -1,0 +1,31 @@
+{
+  "name": "prepend-logs",
+  "version": "0.0.0-development",
+  "description": "Prepend log output with category.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zypA13510/node-prepend-logs.git"
+  },
+  "keywords": [
+    "prepend",
+    "stream",
+    "string",
+    "line",
+    "console",
+    "log",
+    "logs",
+    "logging",
+    "banner",
+    "category"
+  ],
+  "author": "Yuping Zuo (https://github.com/zypA13510)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zypA13510/node-prepend-logs/issues"
+  },
+  "homepage": "https://github.com/zypA13510/node-prepend-logs#readme"
+}
